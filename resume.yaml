@@ -1,0 +1,120 @@
+cv:
+  # ============================================================================
+  # PERSONAL INFORMATION
+  # ============================================================================
+
+  name: "Jaimeen Vyas"
+  location: "Jaipur/Gurugram, India"
+  email: "jaimeenvyas9@gmail.com"
+  phone: "tel:+91-9351468663"
+  social_networks:
+    - network: "LinkedIn"
+      username: "jaimeen-vyas"
+    - network: "GitHub"
+      username: "Jaivy9"
+    - network: "LeetCode"
+      username: "Jaivy9"
+
+  # ============================================================================
+  # RESUME SECTIONS
+  # ============================================================================
+
+  sections:
+    intro:
+      - "Junior Data Engineer with 1+ year of experience building scalable RESTful APIs and ML-powered systems using Python, FastAPI, and cloud platforms."
+      - "Specialized in integrating AI/ML models into production environments, with expertise in audio classification, real-time data pipelines, and cloud infrastructure automation."
+      - "Proven track record in delivering high-accuracy ML solutions and production-ready applications across data engineering and AI domains."
+
+    technologies:
+      - label: "Languages & Frameworks"
+        details: "Python, FastAPI, Flask, Bash, Git"
+      - label: "ML & AI Libraries"
+        details: "TensorFlow, Scikit-learn, NumPy, Pandas, OpenAI API, YAMNet, BERT, K-Train"
+      - label: "Cloud & DevOps"
+        details: "GCP (BigQuery, Pub/Sub), Kubernetes, Docker, GitHub Actions, Firebase, Firestore"
+      - label: "Databases"
+        details: "MongoDB, BigQuery, Firestore"
+      - label: "Tools & Platforms"
+        details: "Postman, Jupyter, Streamlit, Colab, PromQL, PythonAnywhere, K8s Python Client"
+
+    experience:
+      - company: "Fiftyfive Technologies"
+        position: "Junior Data Engineer"
+        location: "Gurugram/Jaipur, India"
+        start_date: "2023-10"
+        highlights:
+          - "Developed and maintained RESTful APIs using **FastAPI** and **Flask** for internal automation tools and client-facing platforms"
+          - "Integrated third-party AI services (OpenAI, Firebase, PaLM API) into production systems using secure, scalable pipelines"
+          - "Built infrastructure monitoring and analytics automation using Python, Pub/Sub, and BigQuery"
+          - "Engineered sound classification module using **YAMNet** for mobile gunshot detection, integrating audio inference with accelerometer-based sensor fusion logic"
+          - "Implemented data preprocessing pipelines for audio and sensor signals, enabling real-time event classification and anomaly detection"
+
+      - company: "Celebal Technologies (COE Program)"
+        position: "Data Science Intern"
+        location: "Remote"
+        start_date: "2023-05"
+        end_date: "2023-07"
+        highlights:
+          - "Trained and deployed ML models using Flask and Streamlit, delivering insights through client-ready web dashboards"
+          - "Led telemarketing prediction project using Random Forest achieving **93.87% accuracy**"
+          - "Built full-stack ML web application with Flask for production deployment"
+
+    education:
+      - institution: "Poornima University"
+        location: "Jaipur, India"
+        area: "Computer Science (Artificial Intelligence)"
+        degree: "B.Tech"
+        start_date: "2020-07"
+        end_date: "2024-06"
+        highlights:
+          - "CGPA: **8.60**/10.0"
+          - "Specialized in AI/ML, Data Engineering, and Cloud Computing"
+
+      - institution: "St. Pauls Sr. Sec. School"
+        location: "Jodhpur, India"
+        area: "Science (CBSE)"
+        degree: "Senior Secondary"
+        start_date: "2018-04"
+        end_date: "2020-03"
+        highlights:
+          - "Percentage: **80%**"
+
+    personal_projects:
+      - name: "Pothole Detection using YOLO"
+        date: "2023-08"
+        show_on_resume: true
+        highlights:
+          - "Developed real-time pothole detection system using **YOLO** object detection algorithm"
+          - "Implemented end-to-end computer vision pipeline for road infrastructure monitoring"
+          - "Open source: [github.com/Jaivy9](https://github.com/Jaivy9)"
+
+      - name: "Twitter Hate Speech Detection"
+        date: "2023-06"
+        show_on_resume: true
+        highlights:
+          - "Built NLP classifier using **BERT** and K-Train achieving **98% accuracy** on real Twitter datasets"
+          - "Implemented transfer learning for text classification with state-of-the-art transformer models"
+          - "Deployed as production-ready hate speech detection system"
+
+      - name: "Automated Birthday Wisher"
+        date: "2023-04"
+        show_on_resume: true
+        highlights:
+          - "Created Python-based birthday scheduler using SMTP for automated email notifications"
+          - "Deployed on PythonAnywhere with scheduled task automation"
+          - "Designed user-friendly scheduling interface with date management"
+
+    # ============================================================================
+    # CERTIFICATIONS & ACHIEVEMENTS
+    # ============================================================================
+
+    # Note: Certifications are included in the intro or can be listed separately
+    # Key Certifications:
+    # - Microsoft Certified: Azure AI Fundamentals
+    # - Microsoft Certified: Azure Data Fundamentals
+    # - Databricks Certified Data Engineer Associate
+    # - NPTEL: Understanding Incubation and Entrepreneurship
+    # - Google CloudReady Facilitator Program (2 Milestones)
+    #
+    # Key Achievement:
+    # - Secured AIR 9 (97th percentile) in Red Hat IT Aptitude Contest 2023
